@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Golden Land</title>
+</head>
+
+<body>
+	<abbr title="UTC is the Universal Time Code">UTC</abbr><br>
+	<mark>This text is mark text.</mark><br>
+	<b>This text is bold text.</b>
+	<small>This text is small text.</small><br>
+	<p>I &hearts; HTML5.</p>
+	<a href=mailto:evergreen@mptmail.net.mm>evergreen</a><br>
+	<hr>
+	<h1><u><i>Logical Styles</i></u></h1>
+	<hr>
+	<p align="center"><big><i>Logical Styles, also called content based style, require the web weaver to consider not what the page should look like.</i></big></p>
+	<ol>
+		<li>Blue</li>
+		<ul type="disc">
+			<li>Deep-Blue</li>
+			<li>Sky-Blue</li>
+			<li>Light-Blue</li>
+		</ul>
+	<li>Brown</li>
+	<li>Black</li>
+	</ol>
+	<h2 align="right">Special Characters</h2>
+	
+</body>
+</html>
+No.1(b)
+<!doctype html>
+<html>
+<head>
+<title>My Favourite Movie</title>
+</head>
+<body>
+<table border="1" cellspacing="0" width="50%" height="200px">
+		<tr>
+		
+			<td>Movie's Name</td>
+			<td>Type of movie</td>
+			<td>Description</td>
+			<td>Photos</td>
+		</tr>
+		<tr>
+			<td>Home Alone</td>
+			<td>comedy film</td>
+			<td>American's Christmas Family</td>
+			<td rowspan="3"><img src="movie photo.jpg"</td>
+	
+		</tr>
+		<tr>
+			<td>Author Christmas</td>
+			<td>Comedy film</td>
+			<td>When Santa's gawky son Authur learns that owing to a technical malfunction a little girl's Christmas gift has been misplaced, he sets out an a mission to deliver the present before it is too late.</td>
+		</tr>
+		<tr>
+			<td>3 idiots</td>
+			<td>comedy film</td>
+			<td>In college, Farhan and Raju from a great bond with Rancho due to his refreshing outlook.Years later, a bet gives them a chance to look for their long-last friend whose existences seems rather elusive</td>
+		</tr>
+	</body>
+	</table>
+	
